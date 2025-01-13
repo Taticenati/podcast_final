@@ -1,6 +1,6 @@
 Costurando Quebra-Cabeças: Retalhos que Viram Obras-Primas - Podcast
 
-Este projeto é o podcast que criamos para compartilhar a arte do patchwork foundation e divulgar o e-book "Costurando Quebra-Cabeças: Métodos e Dicas para Patchwork Foundation". 
+Este projeto é o podcast que criei para compartilhar a arte do patchwork foundation e divulgar o e-book "Costurando Quebra-Cabeças: Métodos e Dicas para Patchwork Foundation". 
 A proposta desse podcast é fornecer dicas práticas sobre a técnica de patchwork, engajando e inspirando pessoas de todas as idades a descobrirem a paixão por costurar.
 
 Conteúdo do Podcast
